@@ -3,7 +3,7 @@ import { Eye, EyeOff} from 'lucide-react';
 // import {signUpHandar, loginHandar} from './handler'
 import axios from 'axios';
 
-import './SignIn.css'
+import '../assets/SignIn.css'
 
 const SignIn = () => {
   

@@ -1,11 +1,11 @@
-import SignIn from "./component/SignIn"
+import AppRoutes from "./routes/AppRoutes";
 
 
 function App() {
  
   return (
     <>
-    <SignIn />
+    return <AppRoutes />;
     </>
   )
 }
